@@ -1,6 +1,6 @@
 package resources;
 
-public class tema3
+public class{tema3
 import java.util.Scanner;
 
 public class StringContainsSubstring {
@@ -23,6 +23,8 @@ public class StringContainsSubstring {
 
         scanner.close();
     }
+}
+}
 }
 
 
